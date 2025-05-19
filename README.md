@@ -12,8 +12,7 @@ käigus keskenduti põhistruktuuri loomisele ja mängu põhiandmete initsialisee
 
 - Mänguklass: Mänguklass loodi mängu seisundi initsialiseerimiseks, koos tasemete arvu ja esialgse ressursside arvuga. See haldab platvormide loomist ja ressursside jaotamist tasemete vahel.
 
-## Sprint 2-s laiendasin mängu,
-tuues sisse riskide ja valikute mõisted. Kuigi need elemendid ei ole teie esitatud koodis selgesõnaliselt välja toodud, võime järeldada, et see sprint keskendus tõenäoliselt mehhanismide lisamisele, mille puhul mängija võib seista silmitsi valikutega, mis on seotud ressursside jaotamisega ning võimalike riskide või ressursside ammendumise võimalusega.
+## Sprint 2
 
 - Juhuslik ressursside jaotamine: Funktsiooni random.randint() kasutati selleks, et simuleerida ettearvamatuid ressursikoguseid, mis jaotatakse igal platvormil. See toob kaasa varieeruvuse ja võimaliku riski, kuna mängijad ei saa olla kindlad, kui palju nad saavad igalt platvormilt võtta.
 
