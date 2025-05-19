@@ -3,7 +3,8 @@
 ![image](https://github.com/user-attachments/assets/db2c5306-277b-4732-bd33-1be6b2637019)
 
 
-## Sprint 1 käigus keskenduti põhistruktuuri loomisele ja mängu põhiandmete initsialiseerimisele. See hõlmas põhiklasside kirjutamist, mis haldavad mängu ressursse ja platvorme:
+## Sprint 1 
+käigus keskenduti põhistruktuuri loomisele ja mängu põhiandmete initsialiseerimisele. See hõlmas põhiklasside kirjutamist, mis haldavad mängu ressursse ja platvorme:
 
 - Platvormi klass: Lõin Platform-klassi, mis esindab iga tasandit mängus. See sisaldab meetodeid ressursside jaotamiseks igale platvormile, tagades, et platvormi ressursside arv ei ületaks selle olemasolevat hulka.
 
